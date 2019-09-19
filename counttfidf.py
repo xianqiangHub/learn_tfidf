@@ -24,4 +24,6 @@ if __name__ == '__main__':
         for j in range(len(words)):
             print(words[j], toarray[i][j])
 
+
+
     print(weight.toarray())
